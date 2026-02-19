@@ -1,0 +1,2 @@
+-- WisdomTree 시드 데이터
+-- TODO: 초기 데이터 추가
