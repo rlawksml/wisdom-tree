@@ -3,6 +3,9 @@
 ## 개요
 WisdomTree - 지혜의 나무
 
+## 레포지토리
+https://github.com/rlawksml/wisdom-tree
+
 ## 기술 스택
 - **프레임워크**: Next.js 15 (App Router)
 - **언어**: TypeScript
